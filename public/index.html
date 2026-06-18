@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Proofread Helper</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Proofread Helper</h1>
+      <p>Paste your text below and receive a polished version plus suggestions.</p>
+      <textarea id="userText" placeholder="solid app, now, was it worth it?..."></textarea>
+      <button id="runButton">Proofread My Text</button>
+      <div id="status"></div>
+      <div id="resultContainer" class="hidden">
+        <h2>Proofread Result</h2>
+        <pre id="result"></pre>
+      </div>
+      <div class="note">
+        <strong>Note:</strong> This app uses the OpenAI API. An API key is required, and OpenAI does not provide a permanent free API plan.
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
