@@ -12,6 +12,9 @@ People shared issues, solutions, and tackled issues during standups.
 
 None of these exist any more.
 
+But here's an amaaaaazing app that AI coded up in node.js.  It's even deployed by Vercel!  Check it out here:
+[Proofread APP](https://7-three-red.vercel.app/)
+
 ## The 2nd biggest change is perspective
 I no longer view this site or anything I do on this platform serious.  It's fun, there are some things to learn, but overall, this is not a serious enterprise.  None of it is.
 
